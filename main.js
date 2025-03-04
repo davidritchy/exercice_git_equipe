@@ -1,3 +1,3 @@
-// Auteur : David Ritchy
+// Auteur : David Ritchy -- bis
 console.log("test")
 
